@@ -128,7 +128,7 @@ header {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url(/assets/aaron-huber-s95oB2n9jng-unsplash.jpg);
+    url(./assets/aaron-huber-s95oB2n9jng-unsplash.jpg);
   min-height: 80dvh;
   max-height: 100dvh;
   background-position: center;
@@ -294,7 +294,7 @@ q {
 
 #contact {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/assets/aaron-huber-s95oB2n9jng-unsplash.jpg);
+    url(./assets/aaron-huber-s95oB2n9jng-unsplash.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 20px;
